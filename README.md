@@ -11,8 +11,6 @@ This includes:
 - ✅ 13 hands-on **practical exercises**
 - ✅ Code for visualizations and data manipulation
 
-> Designed for data science beginners and students working with Python 🐍
-
 ---
 
 ## 🔧 Technologies Used
@@ -35,7 +33,6 @@ Here are a few examples from the theory section:
 - Use cases of Seaborn, and benefits of vectorized operations
 - Hierarchical indexing, pivot tables, handling missing data
 
-> Full list with answers available in [`theory_answers.md`](./theory_answers.md) or in the notebook.
 
 ---
 
@@ -55,10 +52,4 @@ All examples include **code** and **output** ready to run in Google Colab.
 
 ---
 
-## 🧾 Sample Code (CSV File Loading)
-
-```python
-import pandas as pd
-
-# Load
 
